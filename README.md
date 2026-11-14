@@ -1,2 +1,1 @@
- # my-solution
-Project URL: https://github.com/charankukkadapu62/my-solution https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv
